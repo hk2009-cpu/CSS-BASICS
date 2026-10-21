@@ -1,0 +1,23 @@
+h1 {
+    color:#571407;
+    font-family:Times New Roman;
+    background-color:aqua;
+}
+
+p {
+    color:rgb(32, 32, 147);
+font-family:Georgia;
+background-color:lightsteelblue;
+}
+
+h4 {
+    color:greenyellow;
+    font-family:Verdana;
+    background-color:darkslategrey;
+}
+
+ul {
+    color:saddlebrown;
+    font-family:fantasy;
+    background-color:lightgreen;
+}
