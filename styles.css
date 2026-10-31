@@ -1,0 +1,32 @@
+.green {
+  color: rgb(17, 255, 0);
+  font-weight: bold;
+
+}
+
+.blue {
+  color: rgb(0, 0, 255);
+  font-weight: bold;
+}
+
+#last-element{
+  text-align: center;
+  color: purple;
+}
+.pink {
+  color: rgb(242, 99, 199);
+  font-weight: bold;
+}
+.card {
+  background-color: #e1ec0c;
+  padding: 20px;
+}
+.card2 {
+  background-color: #f71f1f;
+  padding: 20px;
+}
+
+.tree {
+  color: #475f47;
+  padding: 20px;
+}
