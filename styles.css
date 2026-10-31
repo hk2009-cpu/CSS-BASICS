@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 .green {
   color: rgb(17, 255, 0);
   font-weight: bold;
@@ -12,6 +16,13 @@
 #last-element{
   text-align: center;
   color: purple;
+  border: 3px green;
+  border-radius: 8px;
+  border-style:groove;
+    padding: 30px;
+    margin-left:90px;
+    margin-right:90px;
+
 }
 .pink {
   color: rgb(242, 99, 199);
@@ -20,13 +31,35 @@
 .card {
   background-color: #e1ec0c;
   padding: 20px;
+    border: 2px solid black;
+      border-radius: 8px;
+      border-style:ridge;
+        margin-bottom: 30px;
+          width: 400px;
+
+  margin: 0 auto;
+
+
 }
 .card2 {
   background-color: #f71f1f;
   padding: 20px;
+    border: 2px;
+      border-radius: 8px;
+        margin-bottom: 30px;
+          width: 400px;
+
+          margin: 0 auto;
+           
+
+
+
+
+
 }
 
 .tree {
   color: #475f47;
-  padding: 20px;
+
+  
 }
